@@ -11,9 +11,11 @@ body {
 
 #search-bar {
     border-radius: 25px;
-    line-height: 35px;
+    line-height: 40px;
     display: inline-block;
     margin-inline: -120px;
+    opacity: 15%;
+    border-color: lightgray;
 }
 
 .center {
@@ -21,8 +23,14 @@ body {
 }
 
 #search-button {
-    margin-right: 50px;
+    margin-top: 10px;
+    margin-right: 10px;
+    font-size: 14px;
+    padding: 7px 7px;
 }
 #special-button {
-    margin-left: 50px;
+    margin-top: 8px;
+    margin-left: 10px;
+    font-size: 14px;
+    padding: 7px 7px;
 }
