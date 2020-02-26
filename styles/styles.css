@@ -1,11 +1,28 @@
 body {
-    margin: 40px auto;
+    margin: -105px auto;
     max-width: 400px;
     padding: 20em;
+    text-align: center;
+}
+
+.google-logo {
+    padding-bottom: 15px;
 }
 
 #search-bar {
     border-radius: 25px;
-    line-height: 30px;
-    justify-content: center;
+    line-height: 35px;
+    display: inline-block;
+    margin-inline: -120px;
+}
+
+.center {
+    padding: 10px 20px;
+}
+
+#search-button {
+    margin-right: 50px;
+}
+#special-button {
+    margin-left: 50px;
 }
