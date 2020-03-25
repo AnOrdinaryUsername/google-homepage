@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .header {
     display: grid;
     font-size: 14px;
@@ -49,6 +50,8 @@
     width: 80px;
 }
 
+=======
+>>>>>>> bee8fa536abd8455f21caeec3611848f63f67ac6
 .wrapper {
     display: grid;
     grid-template-columns: repeat(5, 1fr);
@@ -70,6 +73,15 @@
 .google-logo {
     grid-row: 1 / 2;
     justify-self: center;
+<<<<<<< HEAD
+}
+
+.search-options {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-row: 3 / 4;
+=======
+>>>>>>> bee8fa536abd8455f21caeec3611848f63f67ac6
 }
 
 .search-options {
@@ -77,7 +89,6 @@
     grid-template-columns: 1fr 1fr;
     grid-row: 3 / 4;
 }
-
 #search-bar {
     grid-row: 2 / 3;
     justify-self: auto;
@@ -87,6 +98,10 @@
     border-color: lightgray;
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> bee8fa536abd8455f21caeec3611848f63f67ac6
 #search-button {
     grid-row: 3 / 4;
     font-size: 14px;
